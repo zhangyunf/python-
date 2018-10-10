@@ -15,7 +15,7 @@ string与bytes转化
 '''
 列表
 '''
-# names = "ZhangYang GuyunXiangpeng XuLiangChen"
+#names = "ZhangYang GuyunXiangpeng XuLiangChen"
 # names = ["ZhangYang", "GuYun", "XiangPeng", "XuLiangchen", "ChenRonghua"]
 # print(names) #打印整个列表
 # print(names[0]) #获取指定下标的数据
