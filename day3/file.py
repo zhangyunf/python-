@@ -6,6 +6,7 @@
       "wb":二进制写入，以二进制处理，存入的可以是别的编码的；
       "r+":读写；
       "w+":写读；
+
 '''
 #读
 '''
@@ -18,7 +19,6 @@ f.close()
 '''
 #追加
 '''
-
 fil = open("write", "a", encoding="utf-8")
 fil.write("我爱北京天安门\n")
 fil.write("天安门上太阳升\n")
@@ -93,10 +93,31 @@ for i in range(50):
     time.sleep(1)
 fil.close()
 '''
-
+#修改
+'''
+f = open("yesterday", "r", encoding="utf-8")
+f_new = open("yesterday2.bak", "w" ,encoding="utf-8")
+for line in f:
+    if "如果那两个字没有" in line:
+        line = line.replace("如果那两个字没有", "如果那两个字没有没有")
+    f_new.write(line)
+f.close()
+f_new.close()
+'''
+#为了避免打开文件忘记关闭，可以通过管理上下文
+'''
+with open("yesterday", "r", encoding="utf-8") as f:
+    for line in f:
+        print(line)
+'''
+#python2.7后，with同时打开多个文件
+'''
+with open("yesterday", "r", encoding="utf-8") as f,\
+     open("yesterday", "r", encoding="utf-8") as a:
+    pass
+'''
 #其他
 '''
-
 f = open("write", "a", encoding="utf-8")
 print(f.encoding)#文件编码格式
 print(f.name)#名字
@@ -105,3 +126,4 @@ print(f.readable())#判断文件是否可读
 f.truncate(10)#保留10位
 fil.close()
 '''
+
