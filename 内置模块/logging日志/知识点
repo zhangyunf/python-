@@ -1,6 +1,7 @@
 1、五个级别
   debug、info、warning、error、critical
 2、设置日志
+  logging.basicConfig()
   """
   format参数中可能用到的格式化串:
   %(name)s  Logger的名字
@@ -19,3 +20,7 @@
   %(process)d 进程ID。可能没有
   %(message)s 用户输出的消息
 """
+3、Logger、Handler、Formatter、Filter
+Logger:logging.getLogger([name])没有名字将返回root logger
+
+

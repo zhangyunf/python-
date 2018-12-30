@@ -1,13 +1,13 @@
 import os
 #获取当前的目录
-print(os.getcwd())
+# print(os.getcwd())
 #切换目录
 os.chdir("../")
 print(os.getcwd())
 #返回当前目录
-print(os.curdir)
-#获取当前目录的父目录上级目录
-print(os.pardir)
+# print(os.curdir)
+# #获取当前目录的父目录上级目录
+# print(os.pardir)
 #递归的创建目录C:\a\b\c\d
 # os.makedirs("path")
 #移除目录
