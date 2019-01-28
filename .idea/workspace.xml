@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d270db36-8afa-4a35-8ba6-16f420d7c6cc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/内置模块/logging日志/同时输出至文件以及屏幕.py" beforeDir="false" afterPath="$PROJECT_DIR$/内置模块/logging日志/Logger、Handler、Formatter、Filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/内置模块/logging日志/知识点" beforeDir="false" afterPath="$PROJECT_DIR$/内置模块/logging日志/知识点" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/内置模块/os模块/os模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/内置模块/os模块/os模块.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,19 +36,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/内置模块/logging日志/Logger、Handler、Formatter、Filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
+            <state relative-caret-position="228">
               <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/内置模块/os模块/os模块.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/异常/知识点">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/异常/异常.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -63,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/内置模块/logging日志/知识点">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="494">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -111,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
@@ -121,7 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,31 +140,15 @@
               <item name="python-" type="462c0819:PsiDirectoryNode" />
               <item name="day1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-" type="462c0819:PsiDirectoryNode" />
-              <item name="内置模块" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-" type="462c0819:PsiDirectoryNode" />
-              <item name="内置模块" type="462c0819:PsiDirectoryNode" />
-              <item name="logging日志" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-" type="462c0819:PsiDirectoryNode" />
-              <item name="内置模块" type="462c0819:PsiDirectoryNode" />
-              <item name="os模块" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -201,27 +191,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="日志输出" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内置模块/logging日志" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内置模块/logging日志/配置日志输出.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Logger、Handler、Formatter、Filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,6 +204,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内置模块/logging日志/Logger、Handler、Formatter、Filter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="日志输出" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内置模块/logging日志" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内置模块/logging日志/配置日志输出.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,7 +358,6 @@
     <list>
       <item itemvalue="Python.输入输出" />
       <item itemvalue="Python.logging日志" />
-      <item itemvalue="Python.日志输出" />
       <item itemvalue="Python.Logger、Handler、Formatter、Filter" />
       <item itemvalue="Python.os模块" />
     </list>
@@ -376,7 +365,6 @@
       <list>
         <item itemvalue="Python.os模块" />
         <item itemvalue="Python.Logger、Handler、Formatter、Filter" />
-        <item itemvalue="Python.日志输出" />
         <item itemvalue="Python.logging日志" />
         <item itemvalue="Python.输入输出" />
       </list>
@@ -396,10 +384,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20084566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20084566" />
       <window_info id="Structure" order="1" weight="0.24947146" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -574,12 +562,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/内置模块/logging日志/配置日志输出.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/内置模块/logging日志/rizhi.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/内置模块/logging日志/logging日志.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -588,26 +572,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/内置模块/logging日志/rizhi.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内置模块/logging日志/知识点">
+    <entry file="file://$PROJECT_DIR$/内置模块/logging日志/配置日志输出.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内置模块/logging日志/test.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/内置模块/logging日志/Logger、Handler、Formatter、Filter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
+        <state relative-caret-position="228">
           <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
         </state>
       </provider>
@@ -616,6 +590,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/异常/知识点">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/异常/异常.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内置模块/logging日志/test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内置模块/logging日志/知识点">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
