@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d270db36-8afa-4a35-8ba6-16f420d7c6cc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/多线程/知识点" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/Join &amp; Daemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/多线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/继承式调用.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/知识点" beforeDir="false" afterPath="$PROJECT_DIR$/多线程/知识点" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,24 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/内置模块/logging日志/logging日志.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/内置模块/logging日志/配置日志输出.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/内置模块/logging日志/Logger、Handler、Formatter、Filter.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,16 +60,52 @@
         <entry file="file://$PROJECT_DIR$/内置模块/logging日志/知识点">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/多线程/知识点">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/多线程/知识点">
+        <entry file="file://$PROJECT_DIR$/多线程/Join &amp; Daemon.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="228">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/多线程/多线程.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/多线程/继承式调用.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,7 +146,11 @@
         <option value="$PROJECT_DIR$/内置模块/logging日志/知识点" />
         <option value="$PROJECT_DIR$/内置模块/logging日志/Logger、Handler、Formatter、Filter.py" />
         <option value="$PROJECT_DIR$/内置模块/os模块/os模块.py" />
+        <option value="$PROJECT_DIR$/多线程/线程加锁.py" />
+        <option value="$PROJECT_DIR$/多线程/多线程.py" />
+        <option value="$PROJECT_DIR$/多线程/继承式调用.py" />
         <option value="$PROJECT_DIR$/多线程/知识点" />
+        <option value="$PROJECT_DIR$/多线程/Join &amp; Daemon.py" />
       </list>
     </option>
   </component>
@@ -180,8 +205,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.os模块">
-    <configuration name="输入输出" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Join &amp; Daemon">
+    <configuration name="继承式调用" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,11 +214,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/输入输出.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/继承式调用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多线程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/多线程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Join &amp; Daemon" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/Join &amp; Daemon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,27 +391,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="logging日志" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内置模块/logging日志" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内置模块/logging日志/logging日志.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="os模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -367,17 +413,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.输入输出" />
-      <item itemvalue="Python.logging日志" />
       <item itemvalue="Python.Logger、Handler、Formatter、Filter" />
       <item itemvalue="Python.os模块" />
+      <item itemvalue="Python.多线程" />
+      <item itemvalue="Python.继承式调用" />
+      <item itemvalue="Python.Join &amp; Daemon" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Join &amp; Daemon" />
+        <item itemvalue="Python.继承式调用" />
+        <item itemvalue="Python.多线程" />
         <item itemvalue="Python.os模块" />
         <item itemvalue="Python.Logger、Handler、Formatter、Filter" />
-        <item itemvalue="Python.logging日志" />
-        <item itemvalue="Python.输入输出" />
       </list>
     </recent_temporary>
   </component>
@@ -398,13 +446,13 @@
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20084566" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20084566" />
       <window_info id="Structure" order="1" weight="0.24947146" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5035461" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -620,14 +668,54 @@
     <entry file="file://$PROJECT_DIR$/内置模块/logging日志/知识点">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/线程加锁.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/继承式调用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/多线程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/多线程/知识点">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/Join &amp; Daemon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
