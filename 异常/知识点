@@ -1,8 +1,0 @@
-1、异常
-  try:
-     code
-  except (Error1, Error2) as e:#多个错误
-      print(e)
-  except Exception:#抓所有错误，不建议用
-2、常用错误
-

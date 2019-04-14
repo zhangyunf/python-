@@ -1,0 +1,46 @@
+一、错误
+AtrributeError:试图访问一个队形没有属性，比如foo.x，但是foo没有属性x
+IOError:输入/输出异常；基本上无法打开文件
+ImportError:无法引入模块或包；基本上是路径问题或名称问题
+IndentationError:语法错误；代码没有正确对齐
+IndexError:下标索引超出序列边界，比如当x只有三个元素，却试图访问x[4]
+KeyError:试图访问字典里不存在的建
+KeyboardInterrupt Ctrl+C被按下
+NameError:尝试访问一个没有申明的变量
+SyntaxError Python代码非法，代码不能编译
+TypeError:传入对象类型与要求的不符合
+UnboundLocalError:试图访问一个没有被设置的局部变量，基本上是由于另一个同名的全局变量，导致你以为正在访问它
+ValueError:传入一个调用者不期望的值，即使值的类型是正确的
+
+补充
+异常名称                描述
+BaseException          所有异常的基类
+SystemEixt             解释器请求退出
+KeyboardInterrupt      用户中断执行
+Exception              常规错误的基类
+StopIteration          迭代器没有更多的值
+GeneratorExit          生成器发生异常来通知退出
+
+二、错误处理
+1.try语句处理
+  try:
+
+  except <异常类型>:
+
+  except <异常类型> as <数据>：
+
+  else:
+  # 如果没有异常发生
+  finally:
+  # 无论异常与否，都会执行，通常是进行清理工作
+
+2.raise主动触发异常
+  语法：raise [Exception [, args[, traceback]]].语句中的Exception是异常的类型，参数是一个异常参数值。该
+参数值是可选的，如果不提供，异常的参数是"None".
+try:
+    raise TypeError('类型错误')
+except Exception as error:
+    print(error)
+
+3.自定义错误
+
