@@ -48,3 +48,7 @@ print(type(json.dumps(data)))
 
 # json.loads 字符串---->python形式
 print(type(json.loads(data1)))
+
+with open("a.json", "r") as file:
+    data_json = json.load(file)
+    print("json.load", type(data_json), data_json)

@@ -1,0 +1,10 @@
+python有三个方法解析XML、SAX、DOM,以及ElementTree
+1.SAX(simple API for XML)
+  python标准库包含SAX解析器，SAX用时间驱动模式，通过在解析xml的过程中触发一个个的事件并调用用户定义的毁掉函数来处理XML文件。
+2.DOM(Document Object Model)
+  将xml数据在内存中解析成一个树，通过对树的操作来操作xml
+3.ElementTree(元素树)
+  ElementTree就像一个轻量级的DOM,具有方便友好的API。代码可用性好，速度快，消耗内存少。
+
+注：因DOM需要将xml数据映射到内存中的树，一是比较慢，二是比较耗内存，而SAX流式读取xml文件，比较快，占用内存少，但是需要用户实现
+回调函数（handler）
