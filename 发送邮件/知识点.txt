@@ -1,0 +1,19 @@
+一、SMTP协议
+   简单邮件传输协议：邮件传送代理程序使用SMTP协议来发送邮件到接受这的邮件服务器。STMP协议只能用来发送邮件不能用来接受
+邮件，而大多数的邮件发送服务器都是使用SMTP协议。SMTP协议的默认TCP端口是25.
+二、python发送邮件要用到的两个包：smtplib、email
+
+smtplib：用来发送邮件,此模块定义了一个SMTP对象。
+email:用来构建邮件MIMEText
+
+三、初始化SMTP的方法
+smtp = smtplib.SMTP(host, port, local_hostname)
+host:运行smtp服务器的主机
+port:端口，默认25
+local_hostname:如果SMTP服务器在本地计算机上运行，那么可以只指定localhost选项
+
+四、发送邮件的方法
+smtp.sendmail(sender, receivers, message)
+sender:发送者
+receivers:接收者
+message:内容
