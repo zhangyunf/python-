@@ -505,11 +505,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.发送HTML邮件" />
-      <item itemvalue="Python.SAX操作xml文件" />
-      <item itemvalue="Python.发送纯文本邮件" />
       <item itemvalue="Python.shelve模块" />
       <item itemvalue="Python.xml模块" />
+      <item itemvalue="Python.SAX操作xml文件" />
+      <item itemvalue="Python.发送纯文本邮件" />
+      <item itemvalue="Python.发送HTML邮件" />
     </list>
     <recent_temporary>
       <list>
