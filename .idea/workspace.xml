@@ -182,10 +182,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="797" />
+    <option name="height" value="801" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -212,6 +212,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
@@ -504,11 +505,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.shelve模块" />
-      <item itemvalue="Python.xml模块" />
+      <item itemvalue="Python.发送HTML邮件" />
       <item itemvalue="Python.SAX操作xml文件" />
       <item itemvalue="Python.发送纯文本邮件" />
-      <item itemvalue="Python.发送HTML邮件" />
+      <item itemvalue="Python.shelve模块" />
+      <item itemvalue="Python.xml模块" />
     </list>
     <recent_temporary>
       <list>
