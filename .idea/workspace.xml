@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d270db36-8afa-4a35-8ba6-16f420d7c6cc" name="Default" comment="多线程">
-      <change afterPath="$PROJECT_DIR$/多线程/condition条件对象.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/remode.md" beforeDir="false" afterPath="$PROJECT_DIR$/多线程/remode.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +24,8 @@
         <entry file="file://$PROJECT_DIR$/多线程/remode.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="129">
-                <caret line="29" column="65" lean-forward="true" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+              <first_editor relative-caret-position="173">
+                <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -442,11 +440,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.发送HTML邮件" />
-      <item itemvalue="Python.SAX操作xml文件" />
-      <item itemvalue="Python.发送纯文本邮件" />
       <item itemvalue="Python.shelve模块" />
       <item itemvalue="Python.xml模块" />
+      <item itemvalue="Python.SAX操作xml文件" />
+      <item itemvalue="Python.发送纯文本邮件" />
+      <item itemvalue="Python.发送HTML邮件" />
     </list>
     <recent_temporary>
       <list>
@@ -490,7 +488,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571925894636</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="多线程">
+      <created>1571928068092</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571928068092</updated>
+    </task>
+    <task id="LOCAL-00005" summary="多线程">
+      <created>1571928273919</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571928273919</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -504,6 +516,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="801" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14940098" />
       <window_info id="Structure" order="1" weight="0.24947146" />
@@ -515,10 +528,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989429" weight="0.32944608" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003524" side_tool="true" weight="0.4431487" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5017618" side_tool="true" weight="0.52478135" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.4989429" weight="0.32944608" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49964765" weight="0.32798833" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.4989429" visible="true" weight="0.52478135" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.4982382" visible="true" weight="0.52478135" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -834,8 +847,8 @@
     <entry file="file://$PROJECT_DIR$/多线程/remode.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="129">
-            <caret line="29" column="65" lean-forward="true" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+          <first_editor relative-caret-position="173">
+            <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
