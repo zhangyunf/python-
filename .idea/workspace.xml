@@ -7,6 +7,10 @@
     <list default="true" id="d270db36-8afa-4a35-8ba6-16f420d7c6cc" name="Default" comment="多线程">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list id="7134cdde-6251-4379-bfd7-be886b4b9544" name="Revert: 多线程" comment="">
+      <change beforePath="$PROJECT_DIR$/多线程/condition条件对象.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/remode.md" beforeDir="false" afterPath="$PROJECT_DIR$/多线程/remode.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,22 +28,10 @@
         <entry file="file://$PROJECT_DIR$/多线程/remode.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="173">
+              <first_editor relative-caret-position="-49">
                 <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多线程/condition条件对象.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-464">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-              <folding>
-                <element signature="e#66#82#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -127,7 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,10 +135,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
@@ -462,6 +455,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d270db36-8afa-4a35-8ba6-16f420d7c6cc" name="Default" comment="" />
+      <changelist id="7134cdde-6251-4379-bfd7-be886b4b9544" name="Revert: 多线程" comment="" />
       <created>1540548391968</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -502,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571928273919</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="多线程">
+      <created>1571928382001</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571928382001</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -516,7 +517,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="801" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14940098" />
       <window_info id="Structure" order="1" weight="0.24947146" />
@@ -537,6 +537,9 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" />
     </layout>
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -847,7 +850,7 @@
     <entry file="file://$PROJECT_DIR$/多线程/remode.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="173">
+          <first_editor relative-caret-position="-49">
             <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
           </first_editor>
           <second_editor />
