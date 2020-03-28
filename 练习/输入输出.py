@@ -1,26 +1,27 @@
 #-*- coding:utf-8 -*-
 #!Author:YunFei Zhang
+class Dog(object):
+    def __init__(self, name):
+        self.name = name
+    def eat(self):
+        print("%s is eating...," % self.name)
 
-username = input("your name is:")
-password = input("your password is:")
-
-info = "----info----\n" + "username:" +username+"\npassword:" + password
-
-info1 = '''
----info---
-username:%s
-password:%s
-''' % (username, password)
-
-info2 = '''
-----info-----
-username:{username}
-password:{password}
-'''.format(username=username, password=password)
-
-info3 = '''
-----info----
-username:{0}
-password:{1}
-'''.format(username, password)
-print(info, info1, info2, info3)
+def talk(self):
+    print("%s is yelling..." % self.name)
+d = Dog("张三")
+#当用户输入eat时调用eat函数
+choice = input(">>:").strip()
+if hasattr(d, 'eat'):#判断一个对象里是否有对应的字符串的方法
+    func = getattr(d, 'eat')#获取方法
+    func()
+else:
+    #添加方法
+    '''
+    setattr(d, choice, talk)
+    d.talk(d)
+    '''
+    #添加属
+    setattr(d, choice, 22)
+    print(getattr(d, choice))
+#删除属性
+delattr(d, "name")

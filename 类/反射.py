@@ -20,7 +20,7 @@ else:
     setattr(d, choice, talk)
     d.talk(d)
     '''
-    #添加属性
+    #添加属
     setattr(d, choice, 22)
     print(getattr(d, choice))
 #删除属性
