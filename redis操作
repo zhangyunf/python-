@@ -1,4 +1,0 @@
-'''
-redis:1、连接
-'''
-import redis

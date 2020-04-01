@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d270db36-8afa-4a35-8ba6-16f420d7c6cc" name="Default" comment="多线程">
-      <change afterPath="$PROJECT_DIR$/arithmetic/remode.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arithmetic/runTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arithmetic/冒泡排序.py" afterDir="false" />
+    <list default="true" id="d270db36-8afa-4a35-8ba6-16f420d7c6cc" name="Default" comment="MD文件使用方法">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法题/question one.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/类/反射.py" beforeDir="false" afterPath="$PROJECT_DIR$/类/反射.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/类/类方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/类/类方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习/输入输出.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习/输入输出.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis操作" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则表达式.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,113 +178,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/冒泡排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="添加附件邮件" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/发送邮件" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/发送邮件/添加附件邮件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="时间" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内置模块/time与datatime模块" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内置模块/time与datatime模块/时间.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="多线程" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/多线程.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="输入输出" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/输入输出.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="字符编码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -413,6 +301,113 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/冒泡排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="添加附件邮件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/发送邮件" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/发送邮件/添加附件邮件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="时间" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内置模块/time与datatime模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内置模块/time与datatime模块/时间.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多线程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/多线程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="输入输出" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/输入输出.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.输入输出" />
       <item itemvalue="Python.Threading模块" />
@@ -465,6 +460,9 @@
       <workItem from="1585131279264" duration="6432000" />
       <workItem from="1585208101710" duration="10365000" />
       <workItem from="1585348128609" duration="105000" />
+      <workItem from="1585386453638" duration="664000" />
+      <workItem from="1585660169643" duration="579000" />
+      <workItem from="1585700943192" duration="194000" />
     </task>
     <task id="LOCAL-00001" summary="装饰器">
       <created>1571840267198</created>
@@ -522,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571928549556</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="MD文件使用方法">
+      <created>1585386515006</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585386515007</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -605,13 +610,18 @@
     <MESSAGE value="装饰器" />
     <MESSAGE value="Revert: 多线程" />
     <MESSAGE value="多线程" />
-    <option name="LAST_COMMIT_MESSAGE" value="多线程" />
+    <MESSAGE value="MD文件使用方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="MD文件使用方法" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585052872373">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="320" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-157.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1585052872373" />
+    <state x="350" y="23" width="739" height="803" key="CommitChangelistDialog2" timestamp="1585386514427">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="350" y="23" width="739" height="803" key="CommitChangelistDialog2/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1585386514427" />
     <state width="1398" height="258" key="GridCell.Tab.0.bottom" timestamp="1585234900962">
       <screen x="0" y="23" width="1440" height="807" />
     </state>
@@ -681,12 +691,17 @@
     </state>
     <state x="228" y="60" key="SettingsEditor/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1577615648545" />
     <state x="228" y="60" key="SettingsEditor/-1920.-157.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1585052958400" />
-    <state x="399" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1585348134971">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="320" y="164" key="Vcs.Push.Dialog.v2" timestamp="1585386516683">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="320" y="164" key="Vcs.Push.Dialog.v2/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1585386516683" />
+    <state x="-1388" y="149" key="com.intellij.ide.util.TipDialog" timestamp="1585700988436">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
     <state x="399" y="254" key="com.intellij.ide.util.TipDialog/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1585348134971" />
     <state x="399" y="255" key="com.intellij.ide.util.TipDialog/-1920.-157.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1585131279494" />
     <state x="-622" y="242" key="com.intellij.ide.util.TipDialog/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1585208184821" />
+    <state x="-1388" y="149" key="com.intellij.ide.util.TipDialog/-1920.-157.1920.1057/0.23.1440.813@-1920.-157.1920.1057" timestamp="1585700988436" />
     <state x="-1914" y="-157" width="1884" height="1033" maximized="true" key="dock-window-1" timestamp="1585211338770">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
