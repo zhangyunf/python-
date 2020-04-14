@@ -1,3 +1,7 @@
 2018-12-30 20:28:16 logger error
 2018-12-30 20:28:16 logger1 error
 2018-12-30 20:28:16 logger1 error
+info message
+warn message
+error message
+critical message

@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d270db36-8afa-4a35-8ba6-16f420d7c6cc" name="Default" comment="MD文件使用方法">
+      <change afterPath="$PROJECT_DIR$/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataclass详解/data_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataclass详解/remode.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yaml配置文件详解/remode.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内置模块/logging日志/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内置模块/logging日志/basicConfig配置日志.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内置模块/logging日志/logging.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内置模块/logging日志/logging通过配置文件配置.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内置模块/logging日志/remode.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内置模块/logging日志/过滤器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内置模块/logging日志/通过字典初始化Logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redis操作" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/正则表达式.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md文件使用方法.MD" beforeDir="false" afterPath="$PROJECT_DIR$/md文件使用方法.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内置模块/logging日志/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/内置模块/logging日志/test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内置模块/logging日志/配置日志输出.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +77,78 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/内置模块/logging日志" />
       <recent name="$PROJECT_DIR$/内置模块" />
       <recent name="$PROJECT_DIR$" />
       <recent name="D:\python-\day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.输入输出">
+  <component name="RunManager" selected="Python.过滤器">
+    <configuration name="过滤器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内置模块/logging日志" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内置模块/logging日志/过滤器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="通过字典初始化Logging" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内置模块/logging日志" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内置模块/logging日志/通过字典初始化Logging.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多线程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/多线程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="输入输出" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,94 +163,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/输入输出.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Condition对象条件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/Condition对象条件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Daemon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/Daemon.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Events线程间交互" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/Events线程间交互.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Threading模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/Threading模块.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,7 +358,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="多线程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="basicConfig配置日志" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -373,11 +366,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内置模块/logging日志" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/多线程.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内置模块/logging日志/basicConfig配置日志.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -386,7 +380,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="输入输出" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="data_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -394,12 +388,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataclass详解" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/输入输出.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataclass详解/data_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logging通过配置文件配置" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内置模块/logging日志" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内置模块/logging日志/logging通过配置文件配置.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -409,19 +425,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.输入输出" />
-      <item itemvalue="Python.Threading模块" />
-      <item itemvalue="Python.Daemon" />
-      <item itemvalue="Python.Condition对象条件" />
-      <item itemvalue="Python.Events线程间交互" />
+      <item itemvalue="Python.data_class" />
+      <item itemvalue="Python.logging通过配置文件配置" />
+      <item itemvalue="Python.通过字典初始化Logging" />
+      <item itemvalue="Python.basicConfig配置日志" />
+      <item itemvalue="Python.过滤器" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.输入输出" />
-        <item itemvalue="Python.Events线程间交互" />
-        <item itemvalue="Python.Condition对象条件" />
-        <item itemvalue="Python.Daemon" />
-        <item itemvalue="Python.Threading模块" />
+        <item itemvalue="Python.过滤器" />
+        <item itemvalue="Python.basicConfig配置日志" />
+        <item itemvalue="Python.logging通过配置文件配置" />
+        <item itemvalue="Python.通过字典初始化Logging" />
+        <item itemvalue="Python.data_class" />
       </list>
     </recent_temporary>
   </component>
@@ -462,7 +478,26 @@
       <workItem from="1585348128609" duration="105000" />
       <workItem from="1585386453638" duration="664000" />
       <workItem from="1585660169643" duration="579000" />
-      <workItem from="1585700943192" duration="194000" />
+      <workItem from="1585700943192" duration="309000" />
+      <workItem from="1585785788852" duration="731000" />
+      <workItem from="1586067241181" duration="2687000" />
+      <workItem from="1586073127685" duration="212000" />
+      <workItem from="1586391945912" duration="3729000" />
+      <workItem from="1586423661885" duration="4489000" />
+      <workItem from="1586520745545" duration="2915000" />
+      <workItem from="1586609356805" duration="2574000" />
+      <workItem from="1586612321794" duration="545000" />
+      <workItem from="1586612881788" duration="1198000" />
+      <workItem from="1586614095421" duration="459000" />
+      <workItem from="1586614720004" duration="88000" />
+      <workItem from="1586614974390" duration="43000" />
+      <workItem from="1586615170289" duration="2026000" />
+      <workItem from="1586648918912" duration="3082000" />
+      <workItem from="1586694803858" duration="3652000" />
+      <workItem from="1586699818684" duration="1325000" />
+      <workItem from="1586701390912" duration="630000" />
+      <workItem from="1586735297526" duration="4737000" />
+      <workItem from="1586871655187" duration="4061000" />
     </task>
     <task id="LOCAL-00001" summary="装饰器">
       <created>1571840267198</created>
@@ -527,17 +562,15 @@
       <option name="project" value="LOCAL" />
       <updated>1585386515007</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="MD文件使用方法">
+      <created>1585701247707</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585701247707</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -618,123 +651,175 @@
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="320" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-157.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1585052872373" />
-    <state x="350" y="23" width="739" height="803" key="CommitChangelistDialog2" timestamp="1585386514427">
-      <screen x="0" y="23" width="1440" height="803" />
+    <state x="-1453" y="-157" width="739" height="803" key="CommitChangelistDialog2" timestamp="1585701244071">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
     <state x="350" y="23" width="739" height="803" key="CommitChangelistDialog2/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1585386514427" />
-    <state width="1398" height="258" key="GridCell.Tab.0.bottom" timestamp="1585234900962">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state width="1398" height="232" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1577613558058" />
-    <state width="1878" height="451" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1585140517530" />
-    <state width="1398" height="125" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1585096830868" />
-    <state width="1878" height="376" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1585209905937" />
-    <state width="1398" height="258" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1585225446971" />
-    <state width="1878" height="331" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995455" />
-    <state width="1398" height="258" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1585234900962" />
-    <state width="1398" height="258" key="GridCell.Tab.0.center" timestamp="1585234900961">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state width="1398" height="232" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1577613558057" />
-    <state width="1878" height="451" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1585140517528" />
-    <state width="1398" height="125" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1585096830867" />
-    <state width="1878" height="376" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1585209905935" />
-    <state width="1398" height="258" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1585225446970" />
-    <state width="1878" height="331" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995454" />
-    <state width="1398" height="258" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1585234900961" />
-    <state width="1398" height="258" key="GridCell.Tab.0.left" timestamp="1585234900960">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state width="1398" height="232" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1577613558056" />
-    <state width="1878" height="451" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1585140517528" />
-    <state width="1398" height="125" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1585096830866" />
-    <state width="1878" height="376" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1585209905934" />
-    <state width="1398" height="258" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1585225446970" />
-    <state width="1878" height="331" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995453" />
-    <state width="1398" height="258" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1585234900960" />
-    <state width="1398" height="258" key="GridCell.Tab.0.right" timestamp="1585234900962">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state width="1398" height="232" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1577613558057" />
-    <state width="1878" height="451" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1585140517529" />
-    <state width="1398" height="125" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1585096830867" />
-    <state width="1878" height="376" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1585209905936" />
-    <state width="1398" height="258" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1585225446971" />
-    <state width="1878" height="331" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995455" />
-    <state width="1398" height="258" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1585234900962" />
-    <state width="1398" height="234" key="GridCell.Tab.1.bottom" timestamp="1585234900445">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state width="1398" height="232" key="GridCell.Tab.1.bottom/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1577613558060" />
-    <state width="1878" height="331" key="GridCell.Tab.1.bottom/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995457" />
-    <state width="1398" height="234" key="GridCell.Tab.1.bottom/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1585234900445" />
-    <state width="1398" height="234" key="GridCell.Tab.1.center" timestamp="1585234900444">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state width="1398" height="232" key="GridCell.Tab.1.center/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1577613558059" />
-    <state width="1878" height="331" key="GridCell.Tab.1.center/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995456" />
-    <state width="1398" height="234" key="GridCell.Tab.1.center/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1585234900444" />
-    <state width="1398" height="234" key="GridCell.Tab.1.left" timestamp="1585234900444">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state width="1398" height="232" key="GridCell.Tab.1.left/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1577613558058" />
-    <state width="1878" height="331" key="GridCell.Tab.1.left/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995456" />
-    <state width="1398" height="234" key="GridCell.Tab.1.left/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1585234900444" />
-    <state width="1398" height="234" key="GridCell.Tab.1.right" timestamp="1585234900445">
-      <screen x="0" y="23" width="1440" height="807" />
-    </state>
-    <state width="1398" height="232" key="GridCell.Tab.1.right/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1577613558059" />
-    <state width="1878" height="331" key="GridCell.Tab.1.right/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995457" />
-    <state width="1398" height="234" key="GridCell.Tab.1.right/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1585234900445" />
-    <state x="228" y="60" key="SettingsEditor" timestamp="1585052958400">
-      <screen x="0" y="23" width="1440" height="800" />
-    </state>
-    <state x="228" y="60" key="SettingsEditor/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1577615648545" />
-    <state x="228" y="60" key="SettingsEditor/-1920.-157.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1585052958400" />
-    <state x="320" y="164" key="Vcs.Push.Dialog.v2" timestamp="1585386516683">
+    <state x="-1453" y="-157" key="CommitChangelistDialog2/-1920.-157.1920.1057/0.23.1440.813@-1920.-157.1920.1057" timestamp="1585701244071" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1586876026417">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state x="320" y="164" key="Vcs.Push.Dialog.v2/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1585386516683" />
-    <state x="-1388" y="149" key="com.intellij.ide.util.TipDialog" timestamp="1585700988436">
+    <state width="1878" height="408" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1586740893224" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586876026417" />
+    <state width="1878" height="221" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1586737623015" />
+    <state width="1398" height="14" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1586651554253" />
+    <state width="1878" height="331" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995455" />
+    <state width="1398" height="273" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1586400639288" />
+    <state width="695" height="273" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1586400366544" />
+    <state width="1398" height="39" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1586070580435" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1586876026416">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1878" height="408" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1586740893223" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586876026416" />
+    <state width="1878" height="221" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1586737623013" />
+    <state width="1398" height="14" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1586651554251" />
+    <state width="1878" height="331" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995454" />
+    <state width="1398" height="273" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1586400639287" />
+    <state width="695" height="273" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1586400366543" />
+    <state width="1398" height="39" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1586070580433" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1586876026415">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1878" height="408" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1586740893222" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586876026415" />
+    <state width="1878" height="221" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1586737623013" />
+    <state width="1398" height="14" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1586651554250" />
+    <state width="1878" height="331" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995453" />
+    <state width="1398" height="273" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1586400639286" />
+    <state width="695" height="273" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1586400366542" />
+    <state width="1398" height="39" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1586070580433" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1586876026417">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1878" height="408" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1586740893224" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586876026417" />
+    <state width="1878" height="221" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1586737623014" />
+    <state width="1398" height="14" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1586651554252" />
+    <state width="1878" height="331" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995455" />
+    <state width="1398" height="273" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1586400639287" />
+    <state width="695" height="273" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1586400366544" />
+    <state width="1398" height="39" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1586070580434" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1586876026420">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1878" height="408" key="GridCell.Tab.1.bottom/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1586740889461" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586876026420" />
+    <state width="1878" height="221" key="GridCell.Tab.1.bottom/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1586737622823" />
+    <state width="1398" height="241" key="GridCell.Tab.1.bottom/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1586394473558" />
+    <state width="1878" height="331" key="GridCell.Tab.1.bottom/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995457" />
+    <state width="1398" height="273" key="GridCell.Tab.1.bottom/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1586400639291" />
+    <state width="695" height="273" key="GridCell.Tab.1.bottom/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1586400366547" />
+    <state width="1398" height="39" key="GridCell.Tab.1.bottom/-1920.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1586070580437" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1586876026419">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1878" height="408" key="GridCell.Tab.1.center/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1586740889460" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586876026419" />
+    <state width="1878" height="221" key="GridCell.Tab.1.center/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1586737622822" />
+    <state width="1398" height="241" key="GridCell.Tab.1.center/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1586394473557" />
+    <state width="1878" height="331" key="GridCell.Tab.1.center/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995456" />
+    <state width="1398" height="273" key="GridCell.Tab.1.center/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1586400639289" />
+    <state width="695" height="273" key="GridCell.Tab.1.center/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1586400366546" />
+    <state width="1398" height="39" key="GridCell.Tab.1.center/-1920.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1586070580435" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1586876026418">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1878" height="408" key="GridCell.Tab.1.left/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1586740889459" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586876026418" />
+    <state width="1878" height="221" key="GridCell.Tab.1.left/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1586737622821" />
+    <state width="1398" height="241" key="GridCell.Tab.1.left/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1586394473557" />
+    <state width="1878" height="331" key="GridCell.Tab.1.left/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995456" />
+    <state width="1398" height="273" key="GridCell.Tab.1.left/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1586400639289" />
+    <state width="695" height="273" key="GridCell.Tab.1.left/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1586400366545" />
+    <state width="1398" height="39" key="GridCell.Tab.1.left/-1920.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1586070580435" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1586876026419">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1878" height="408" key="GridCell.Tab.1.right/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1586740889460" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586876026419" />
+    <state width="1878" height="221" key="GridCell.Tab.1.right/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1586737622822" />
+    <state width="1398" height="241" key="GridCell.Tab.1.right/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1586394473558" />
+    <state width="1878" height="331" key="GridCell.Tab.1.right/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585145995457" />
+    <state width="1398" height="273" key="GridCell.Tab.1.right/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1586400639290" />
+    <state width="695" height="273" key="GridCell.Tab.1.right/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1586400366547" />
+    <state width="1398" height="39" key="GridCell.Tab.1.right/-1920.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1586070580436" />
+    <state x="228" y="60" key="SettingsEditor" timestamp="1586696067437">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="228" y="60" key="SettingsEditor/-1920.-157.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1585052958400" />
+    <state x="228" y="60" key="SettingsEditor/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586696067437" />
+    <state x="-1616" y="-108" key="SettingsEditor/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1585785861789" />
+    <state x="-1493" y="29" key="Vcs.Push.Dialog.v2" timestamp="1585701258220">
       <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="320" y="164" key="Vcs.Push.Dialog.v2/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1585386516683" />
+    <state x="-1493" y="29" key="Vcs.Push.Dialog.v2/-1920.-157.1920.1057/0.23.1440.813@-1920.-157.1920.1057" timestamp="1585701258220" />
+    <state x="399" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1586701394775">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state x="399" y="254" key="com.intellij.ide.util.TipDialog/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1585348134971" />
     <state x="399" y="255" key="com.intellij.ide.util.TipDialog/-1920.-157.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1585131279494" />
-    <state x="-622" y="242" key="com.intellij.ide.util.TipDialog/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1585208184821" />
+    <state x="-642" y="242" key="com.intellij.ide.util.TipDialog/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1586699870875" />
+    <state x="399" y="256" key="com.intellij.ide.util.TipDialog/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586701394775" />
+    <state x="399" y="256" key="com.intellij.ide.util.TipDialog/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1586423726638" />
     <state x="-1388" y="149" key="com.intellij.ide.util.TipDialog/-1920.-157.1920.1057/0.23.1440.813@-1920.-157.1920.1057" timestamp="1585700988436" />
-    <state x="-1914" y="-157" width="1884" height="1033" maximized="true" key="dock-window-1" timestamp="1585211338770">
+    <state x="-1729" y="-63" width="1074" height="684" key="dock-window-1" timestamp="1586874468072">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
     <state x="-1431" y="52" width="1119" height="687" key="dock-window-1/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1585139552989" />
     <state x="291" y="61" width="1119" height="687" key="dock-window-1/-1920.-157.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1585131358973" />
-    <state x="0" y="23" width="1440" height="790" maximized="true" key="dock-window-1/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1585208198826" />
-    <state x="43" y="35" width="1440" height="790" key="dock-window-1/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1585209441534" />
-    <state x="648" y="311" width="1440" height="790" key="dock-window-1/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1585209974424" />
+    <state x="0" y="23" width="1440" height="803" key="dock-window-1/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1586737355651" />
+    <state x="-1729" y="-63" width="1074" height="684" key="dock-window-1/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586874468072" />
+    <state x="43" y="35" width="1440" height="790" key="dock-window-1/-1920.-157.1920.1057/0.23.1440.805@-1920.-157.1920.1057" timestamp="1586736248171" />
+    <state x="-1568" y="-72" width="1074" height="684" key="dock-window-1/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1586872839586" />
     <state x="43" y="35" width="1440" height="790" key="dock-window-1/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585209851352" />
     <state x="-1914" y="-157" width="1884" height="1033" maximized="true" key="dock-window-1/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1585211338770" />
-    <state x="-1548" y="-81" width="1440" height="810" key="dock-window-2" timestamp="1585227200356">
+    <state x="-1118" y="27" width="1088" height="726" key="dock-window-1/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1586071985617" />
+    <state x="-936" y="15" width="1088" height="726" key="dock-window-1/-1920.-157.1920.1057/0.23.1440.812@0.23.1440.812" timestamp="1586070588877" />
+    <state x="-925" y="-68" width="1074" height="684" key="dock-window-2" timestamp="1586874468073">
       <screen x="-1920" y="-157" width="1920" height="1057" />
     </state>
-    <state x="-1096" y="45" width="810" height="510" key="dock-window-2/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1585225417130" />
+    <state x="-925" y="-68" width="1074" height="684" key="dock-window-2/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586874468073" />
+    <state x="-1920" y="-157" width="1920" height="1057" key="dock-window-2/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1586617110958" />
     <state x="-1092" y="-45" width="810" height="510" key="dock-window-2/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1585224111586" />
     <state x="34" y="205" width="810" height="510" key="dock-window-2/-1920.-157.1920.1057/0.23.1440.810@-1920.-157.1920.1057" timestamp="1585226144817" />
     <state x="-1092" y="-45" width="810" height="510" key="dock-window-2/-1920.-157.1920.1057/0.23.1440.810@0.23.1440.810" timestamp="1585223765808" />
     <state x="2" y="28" width="1418" height="800" maximized="true" key="dock-window-2/-1920.-157.1920.1057/0.23.1440.812@-1920.-157.1920.1057" timestamp="1585226453062" />
     <state x="-1548" y="-81" width="1440" height="810" key="dock-window-2/-1920.-157.1920.1057/0.23.1440.813@-1920.-157.1920.1057" timestamp="1585227200356" />
-    <state x="384" y="145" width="671" height="685" key="search.everywhere.popup" timestamp="1585211202359">
-      <screen x="0" y="23" width="1440" height="807" />
+    <state x="420" y="246" width="1920" height="805" key="dock-window-3" timestamp="1586875126819">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state x="384" y="144" width="670" height="676" key="search.everywhere.popup/-1920.-157.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1577613533874" />
+    <state x="-955" y="81" width="1078" height="718" key="dock-window-3/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1586872444932" />
+    <state x="420" y="246" width="1920" height="805" key="dock-window-3/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586875126819" />
+    <state x="-1920" y="-157" width="1865" height="1027" key="dock-window-3/-1920.-157.1920.1057/0.23.1440.805@0.23.1440.805" timestamp="1586875015548" />
+    <state x="-1476" y="71" width="1249" height="694" key="dock-window-4" timestamp="1586875978305">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="-1476" y="71" width="1249" height="694" key="dock-window-4/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586875978305" />
+    <state x="-1694" y="-157" width="1414" height="748" key="dock-window-5" timestamp="1586876036118">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="-1694" y="-157" width="1414" height="748" key="dock-window-5/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586876036118" />
+    <state x="384" y="144" width="671" height="682" key="search.everywhere.popup" timestamp="1586696306748">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
     <state x="-1408" y="3" width="894" height="897" key="search.everywhere.popup/-1920.-157.1920.1057/0.23.1440.803@-1920.-157.1920.1057" timestamp="1585139941052" />
+    <state x="384" y="144" width="671" height="682" key="search.everywhere.popup/-1920.-157.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1586696306748" />
     <state x="-1408" y="3" width="894" height="897" key="search.everywhere.popup/-1920.-157.1920.1057/0.23.1440.807@-1920.-157.1920.1057" timestamp="1585141495944" />
     <state x="384" y="145" width="671" height="685" key="search.everywhere.popup/-1920.-157.1920.1057/0.23.1440.807@0.23.1440.807" timestamp="1585211202359" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_$.coverage" NAME="输入输出 Coverage Results" MODIFIED="1585226439539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_$.coverage" NAME="过滤器 Coverage Results" MODIFIED="1586875957023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内置模块/logging日志" />
     <SUITE FILE_PATH="coverage/python_$Events.coverage" NAME="Events线程间交互 Coverage Results" MODIFIED="1585145936485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/python_$logging.coverage" NAME="logging通过配置文件配置 Coverage Results" MODIFIED="1586874311482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内置模块/logging日志" />
     <SUITE FILE_PATH="coverage/python_$Daemon.coverage" NAME="Daemon Coverage Results" MODIFIED="1585140517462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
     <SUITE FILE_PATH="coverage/python_$Condition.coverage" NAME="Condition对象条件 Coverage Results" MODIFIED="1585144554652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/python_$Logging.coverage" NAME="通过字典初始化Logging Coverage Results" MODIFIED="1586874074082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内置模块/logging日志" />
+    <SUITE FILE_PATH="coverage/python_$data_class.coverage" NAME="data_class Coverage Results" MODIFIED="1586612903654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataclass详解" />
+    <SUITE FILE_PATH="coverage/python_$basicConfig.coverage" NAME="basicConfig配置日志 Coverage Results" MODIFIED="1586875011954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内置模块/logging日志" />
     <SUITE FILE_PATH="coverage/python_$Threading.coverage" NAME="Threading模块 Coverage Results" MODIFIED="1585140473470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/python_$a.coverage" NAME="a Coverage Results" MODIFIED="1586070914868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_$__1_.coverage" NAME="冒泡排序 (1) Coverage Results" MODIFIED="1577613060116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/arithmetic" />
   </component>
 </project>

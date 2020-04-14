@@ -18,6 +18,9 @@
 >jfiasfiifsdofjioafijfjifjaofjdis
 >fosadjfiojsdaofijsdiofjoasijfodsajfosajfijoasd
 >
+```python
+# 代码应用
+```
 # 四、分割线
 * 分割线可以由* - _（星号，减号，底线）这3个符号的至少3个符号表示，注意至少要3个，且不需要连续，有空格也可以
 ***

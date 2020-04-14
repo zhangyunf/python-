@@ -1,0 +1,26 @@
+version: 1
+
+disable_existing_loggers: False
+
+formatters:
+  simple:
+    format: '%(message)s'
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: simple
+  file_handler:
+    class: logging.FileHandler
+    level: DEBUG
+    formatter: simple
+    filename: test.log
+
+loggers:
+  console_logger:
+    handlers: [console]
+    level: INFO
+  root:
+    handlers: [console, file_handler]
+    level: DEBUG
+
